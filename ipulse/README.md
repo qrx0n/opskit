@@ -1,0 +1,2 @@
+# ipulse
+### ipulse - ip information gathering tool, you have to create a `dev.json` file and copy the context of `configs/example.json`, then paste the token of your account from the `ipinfo.io` service.
